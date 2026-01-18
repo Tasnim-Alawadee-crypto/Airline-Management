@@ -54,5 +54,5 @@ airmain
 # Author
 Tasnim Al-Awadee_AI
 Rawan Maarof_AI
-Boshra Al-Gabryee_AI
-Yousra Al-Gabryee_IT
+Boshra Al-Gbryee_AI
+Yousra Al-Gbryee_IT
